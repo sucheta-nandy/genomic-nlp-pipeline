@@ -33,18 +33,9 @@ This project implements a complete natural language processing system for analyz
 
 ```
 genomic-nlp-pipeline/
-├── data/
-│   │   └── texts.csv              # Input dataset (60 AD publications)
-│   └── processed/                 # Intermediate files
-│
-├── src/
-│   ├── data_collection.py         # Data scraping/generation
-│   ├── entity_extraction.py       # NER and relation extraction
-│   ├── topic_modeling.py          # Clustering algorithms
-│   └── visualization.py           # Plot generation
-│
-├── notebooks/
-│   └── Genomic Text Curation & Topic Grouping (NLP).ipynb          # Interactive analysis notebook
+└── texts.csv              # Input dataset (60 AD publications)
+|
+└── Genomic Text Curation & Topic Grouping (NLP).ipynb          # Interactive analysis notebook
 │
 ├── output/
 │   ├── entities.json              # Extracted entity records
@@ -78,12 +69,7 @@ genomic-nlp-pipeline/
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download spaCy model**
+3. **Download spaCy model**
    ```bash
    python -m spacy download en_core_web_sm
    ```
@@ -97,11 +83,6 @@ Core packages (automatically installed):
 - `scikit-learn` - Machine learning algorithms
 - `matplotlib` & `seaborn` - Static visualizations
 - `plotly` - Interactive visualizations
-
-Optional packages:
-- `sentence-transformers` - Semantic embeddings
-- `umap-learn` - Advanced dimensionality reduction
-- `scispacy` - Biomedical NER models
 
 ---
 
