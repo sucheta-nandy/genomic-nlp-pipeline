@@ -1,0 +1,61 @@
+text_id,title,text
+T0001,APOE ε4 allele and Alzheimer disease risk,The rs429358 variant in the APOE gene is strongly associated with increased Alzheimer disease risk across multiple populations. This variant increases disease risk by approximately 3-fold in heterozygotes and 15-fold in homozygotes.
+T0002,TREM2 variants in neurodegeneration,"Rare coding variants in TREM2, including rs75932628, significantly affect microglial function and increase risk for late-onset Alzheimer disease. The R47H variant increases AD risk approximately 3-fold."
+T0003,BIN1 locus and tau pathology,Common variants near BIN1 at rs744373 are associated with Alzheimer disease risk. BIN1 variants modulate tau pathology and affect endosomal trafficking in neurons.
+T0004,CLU genetic associations in AD,The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility. Clusterin influences amyloid-beta clearance and aggregation.
+T0005,CR1 complement receptor variants,"Variants in the complement receptor 1 gene CR1, particularly rs6656401, contribute to AD risk through altered complement cascade regulation and amyloid clearance mechanisms."
+T0006,PICALM endocytosis and AD,The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk. PICALM influences APP processing and amyloid-beta production.
+T0007,MS4A gene cluster associations,Multiple variants in the MS4A gene cluster including rs983392 are implicated in Alzheimer disease pathogenesis through immune cell function modulation.
+T0008,CD33 myeloid cell receptor,The rs3865444 polymorphism in CD33 affects microglial clearance of amyloid-beta plaques and modulates Alzheimer disease risk in multiple populations.
+T0009,ABCA7 lipid transport,"Loss-of-function variants in ABCA7, including rs3764650, increase AD susceptibility. ABCA7 regulates lipid homeostasis and affects amyloid processing in the brain."
+T0010,SORL1 and APP trafficking,Variants in SORL1 such as rs11218343 influence APP trafficking and processing. SORL1 dysfunction leads to increased amyloid-beta production and Alzheimer disease risk.
+T0011,GWAS meta-analysis identifies novel loci,"Large-scale genome-wide association study meta-analysis identified 29 risk loci for Alzheimer disease including ZCWPW1, ADAMTS1, and HESX1 variants at genome-wide significance."
+T0012,PTK2B signaling in AD,The protein tyrosine kinase PTK2B contains variant rs28834970 linked to cognitive decline and Alzheimer disease. PTK2B regulates calcium signaling in neurons.
+T0013,SPI1 transcription factor variants,Variants near SPI1 at rs1057233 affect myeloid cell gene expression and are associated with Alzheimer disease risk through altered microglial function.
+T0014,INPP5D phosphatase and immunity,The immune-related phosphatase gene INPP5D harbors rs35349669 which modulates microglial responses and contributes to AD pathogenesis.
+T0015,MEF2C neuronal transcription,MEF2C transcription factor variants including rs190982 are linked to Alzheimer disease and regulate neuronal survival and synaptic function genes.
+T0016,NME8 ciliary function,Rare variants in NME8 affect ciliary function and are associated with increased risk of cognitive impairment and Alzheimer disease in specific populations.
+T0017,ZCWPW1 histone binding,The histone-binding protein ZCWPW1 contains variant rs1476679 associated with Alzheimer disease risk. ZCWPW1 may influence chromatin remodeling in neurons.
+T0018,CASS4 cytoskeletal regulation,Variants in CASS4 at rs7274581 affect cytoskeletal dynamics and are linked to Alzheimer disease through altered neuronal morphology and connectivity.
+T0019,FERMT2 integrin signaling,The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction.
+T0020,HLA-DRB1 immune associations,Major histocompatibility complex variants in HLA-DRB1 including rs9271192 are associated with AD risk and influence immune responses to amyloid pathology.
+T0021,EPHA1 receptor tyrosine kinase,The ephrin receptor EPHA1 contains variants such as rs11767557 that affect synaptic plasticity and are linked to Alzheimer disease cognitive decline.
+T0022,CD2AP adaptor protein,"CD2AP variants at rs9349407 influence cytoskeletal organization and blood-brain barrier integrity, contributing to Alzheimer disease pathogenesis."
+T0023,CELF1 RNA binding protein,The RNA-binding protein CELF1 harbors variant rs10838725 associated with cognitive impairment. CELF1 regulates alternative splicing in neurons affected by AD.
+T0024,TRIP4 transcriptional coactivator,Variants in TRIP4 including rs74615166 are linked to Alzheimer disease and may affect transcriptional regulation of genes involved in neuronal function.
+T0025,ACE angiotensin converting enzyme,The ACE gene contains polymorphisms such as rs1800764 that influence blood pressure regulation and are associated with increased dementia risk.
+T0026,MAPT tau protein variants,"Although primarily linked to frontotemporal dementia, MAPT variants including rs242557 influence tau protein structure and contribute to Alzheimer disease neuropathology."
+T0027,GRN progranulin deficiency,Loss-of-function mutations in progranulin gene GRN cause frontotemporal dementia and certain variants like rs5848 modify Alzheimer disease risk through inflammatory pathways.
+T0028,TMEM106B lysosomal function,The TMEM106B variant rs1990622 affects lysosomal function and modulates risk for multiple neurodegenerative diseases including Alzheimer disease.
+T0029,ADAM10 alpha-secretase activity,ADAM10 is the major alpha-secretase for APP. Variants such as rs593742 that enhance ADAM10 activity reduce amyloid-beta production and AD risk.
+T0030,APOC1 apolipoprotein cluster,The APOC1 gene in the APOE cluster contains variant rs4420638 independently associated with Alzheimer disease risk through lipid metabolism effects.
+T0031,Population-specific variants in African Americans,African American populations show unique AD risk loci including variants in ABCA7 at rs115550680 and novel associations not observed in European populations.
+T0032,Asian population AD genetics,Asian populations demonstrate distinct genetic architecture for AD with population-specific associations at loci including SHARPIN rs34173062 and different APOE effect sizes.
+T0033,Hispanic cohort genetic findings,Caribbean Hispanic populations reveal unique AD susceptibility variants and show stronger associations with certain loci compared to non-Hispanic white populations.
+T0034,Gene-gene interactions in AD,"Epistatic interactions between APOE and TOMM40 variants modify Alzheimer disease risk beyond their individual effects, suggesting complex genetic architecture."
+T0035,Polygenic risk scores for AD,"Polygenic risk scores combining hundreds of variants including rs429358, rs75932628, and rs744373 predict Alzheimer disease risk with improved accuracy over single variants."
+T0036,CSF biomarker genetic associations,"Variants in APP, PSEN1, and PSEN2 are strongly associated with cerebrospinal fluid levels of amyloid-beta and tau proteins, key AD biomarkers."
+T0037,Brain imaging endophenotypes,Genetic variants in CLU and PICALM are associated with hippocampal atrophy and white matter hyperintensities on MRI in Alzheimer disease patients.
+T0038,Age of onset genetic modifiers,"APOE ε4 dosage and TREM2 R47H variant significantly influence age of Alzheimer disease onset, with homozygous APOE ε4 carriers showing earliest symptom onset."
+T0039,Cognitive decline trajectory variants,Variants in BDNF at rs6265 and COMT at rs4680 modify the rate of cognitive decline in Alzheimer disease patients independent of primary disease risk.
+T0040,Neuropathology genetic correlations,"Genetic variants show distinct associations with amyloid plaque burden versus neurofibrillary tangle pathology, suggesting partially independent genetic control of AD pathologies."
+T0041,Inflammatory pathway variants,"Multiple immune-related genes including IL1A, IL1B, and TNF contain variants that modulate neuroinflammation and contribute to Alzheimer disease progression."
+T0042,Lipid metabolism in AD genetics,"Beyond APOE, variants in lipid metabolism genes ABCA1, ABCA7, and APOC1 influence cholesterol homeostasis and amyloid processing in the brain."
+T0043,Endocytic pathway dysfunction,"Convergent genetic evidence implicates endocytic pathway genes PICALM, BIN1, CD2AP, and RIN3 in Alzheimer disease through effects on APP trafficking."
+T0044,Microglial gene expression,"Single-cell RNA sequencing reveals that AD risk variants in TREM2, CD33, and MS4A are expressed in microglia and affect disease-associated microglial states."
+T0045,Synaptic function genetic variants,"Variants in synaptic genes including PTK2B, MEF2C, and EPHA1 converge on pathways regulating synaptic plasticity and neurotransmission in AD."
+T0046,Tau propagation mechanisms,Genetic studies suggest variants in BIN1 and PICALM may influence trans-synaptic spreading of pathological tau in Alzheimer disease brain networks.
+T0047,Blood-brain barrier genetics,Variants in FERMT2 and CD2AP affect blood-brain barrier integrity and may contribute to AD pathogenesis through vascular dysfunction mechanisms.
+T0048,Autophagy pathway in neurodegeneration,Genetic variants in autophagy-related genes SORL1 and TMEM106B influence protein degradation pathways critical for preventing neurodegeneration in AD.
+T0049,Calcium signaling dysregulation,Variants in genes regulating calcium homeostasis including CALHM1 and RYR3 are associated with altered calcium signaling and AD susceptibility.
+T0050,Mitochondrial dysfunction variants,Nuclear-encoded mitochondrial genes harbor variants that affect oxidative phosphorylation and contribute to bioenergetic failure in Alzheimer disease neurons.
+T0051,Rare variant burden analysis,"Exome sequencing identifies rare damaging variants in TREM2, SORL1, and ABCA7 that collectively contribute substantial population-attributable risk for AD."
+T0052,Structural variant associations,Copy number variations and structural variants near complement genes C4A and C4B influence neuroinflammation and Alzheimer disease risk.
+T0053,Expression QTL studies,Brain expression quantitative trait loci reveal that many AD GWAS variants act by regulating gene expression in neurons and glial cells.
+T0054,Splicing QTL in brain tissue,Alternative splicing QTLs demonstrate that AD risk variants in genes like BIN1 alter RNA splicing patterns in brain tissue.
+T0055,DNA methylation and AD,"Genetic variants influence DNA methylation patterns at AD-associated loci, suggesting epigenetic mechanisms contribute to disease susceptibility."
+T0056,Sex-specific genetic effects,"APOE ε4 shows stronger association with AD risk in females compared to males, indicating sex-specific genetic architecture of disease susceptibility."
+T0057,Gene-environment interactions,Interactions between APOE genotype and environmental factors including education and physical activity modify Alzheimer disease risk.
+T0058,Drug target genetic validation,Genetic evidence supports drug targets including BACE1 and gamma-secretase components for therapeutic intervention in Alzheimer disease.
+T0059,Resilience to AD pathology,Genetic studies of cognitively normal individuals with significant AD pathology identify protective variants that may inform therapeutic strategies.
+T0060,Familial AD mutations,"Rare mutations in APP, PSEN1, and PSEN2 cause early-onset familial Alzheimer disease through increased amyloid-beta production or altered Aβ42/40 ratio."
