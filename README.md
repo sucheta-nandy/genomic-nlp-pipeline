@@ -9,12 +9,15 @@ This project implements a complete natural language processing system for analyz
 ## 📋 Table of Contents
 
 - [Features](#-features)
+- [Quick Start](#-quick-start)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Methodology](#-methodology)
 - [Results](#-results)
+- [Example Outputs](#-example-outputs)
 - [Limitations & Future Work](#-limitations--future-work)
+- [References](#-references)
 
 ---
 
@@ -29,21 +32,35 @@ This project implements a complete natural language processing system for analyz
 
 ---
 
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/genomic-nlp-pipeline.git
+cd genomic-nlp-pipeline
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+
+# Run Jupyter notebook (interactive)
+jupyter notebook Genomic Text Curation & Topic Grouping (NLP).ipynb
+
+---
+
 ## 📁 Project Structure
 
 ```
 genomic-nlp-pipeline/
-└── texts.csv              # Input dataset (60 AD publications)
-|
-└── Genomic Text Curation & Topic Grouping (NLP).ipynb          # Interactive analysis notebook
-│
+└── texts.csv                                                  # Input dataset (60 AD publications)
+└── Genomic Text Curation & Topic Grouping (NLP).ipynb         # Interactive analysis notebook
 ├── output/
 │   ├── entities.json              # Extracted entity records
 │   ├── entities.csv               # Same data in CSV format
 │   ├── topics.json                # Topic clustering results
 │   ├── texts_with_topics.csv      # Documents with topic labels
-│
-└── README.md                     
+└── README.md             
 
 ---
 
@@ -69,11 +86,6 @@ genomic-nlp-pipeline/
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Download spaCy model**
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
-
 ### Dependencies
 
 Core packages (automatically installed):
@@ -84,15 +96,16 @@ Core packages (automatically installed):
 - `matplotlib` & `seaborn` - Static visualizations
 - `plotly` - Interactive visualizations
 
+Optional packages:
+- `sentence-transformers` - Semantic embeddings
+- `umap-learn` - Advanced dimensionality reduction
+- `scispacy` - Biomedical NER models
+
 ---
 
 ## 💻 Usage
 
-### Option 1: Interactive Jupyter Notebook (Recommended for Exploration)
-
-```bash
-jupyter notebook notebooks/exploration.ipynb
-```
+### Interactive Jupyter Notebook (Recommended for Exploration)
 
 This notebook walks you through:
 - Data loading and exploration
@@ -244,46 +257,25 @@ We implement three complementary approaches:
 ### Future Enhancements
 
 #### Short-term (1-2 weeks)
-Integrate scispaCy biomedical NER model
-Implement negation detection
-Expand dataset to 100+ documents
-Add manual validation interface
+- [ ] Integrate scispaCy biomedical NER model
+- [ ] Add entity normalization (dbSNP, HUGO, MONDO)
+- [ ] Implement negation detection
+- [ ] Expand dataset to 100+ documents
+- [ ] Add manual validation interface
 
----
-
-## 🧪 Testing & Validation
-
-### Manual Validation Process
-
-1. Run notebook through Section 11 to generate validation sample
-2. Review 10 randomly sampled entity records
-3. Mark each as: ✓ Correct / ☐ Incorrect / ☐ Partial
-4. Calculate precision: `correct / total`
-
-### Example Validation Template
-
-```
-Record 1:
-  Variant: rs429358
-  Gene: APOE
-  Phenotype: Alzheimer disease
-  Relation: associated with
-  Evidence: The rs429358 variant in the APOE gene is strongly associated with...
-  
-  Assessment: ✓ Correct
-```
-
-### Known Error Patterns
-
-- **Over-extraction**: Multiple relations per sentence create duplicates
-- **Gene ambiguity**: Common abbreviations matched as genes
-- **Phenotype boundary**: "cognitive decline and dementia" → two phenotypes?
+#### Long-term (2-3 months)
+- [ ] Dependency parsing for relation extraction
+- [ ] BioBERT/PubMedBERT fine-tuning
+- [ ] Active learning for curation
+- [ ] Precision/recall evaluation with gold standard
+- [ ] Entity linking to knowledge graphs
 
 ---
 
 ## 👤 Author
 
 **Sucheta Nandy**  
+
 - GitHub: https://github.com/sucheta-nandy
 - Email: suchetanandy217@gmail.com
 - LinkedIn: https://www.linkedin.com/in/suchetanandy
@@ -291,4 +283,5 @@ Record 1:
 ---
 
 ## ⭐ Star History
+
 If you find this project helpful, please consider giving it a star! ⭐
