@@ -15,10 +15,8 @@ This project implements a complete natural language processing system for analyz
 - [Usage](#-usage)
 - [Methodology](#-methodology)
 - [Results](#-results)
-- [Example Outputs](#-example-outputs)
 - [Limitations & Future Work](#-limitations--future-work)
-- [References](#-references)
-
+- 
 ---
 
 ## ✨ Features
@@ -61,6 +59,7 @@ genomic-nlp-pipeline/
 │   ├── topics.json                # Topic clustering results
 │   ├── texts_with_topics.csv      # Documents with topic labels
 └── README.md             
+```
 
 ---
 
