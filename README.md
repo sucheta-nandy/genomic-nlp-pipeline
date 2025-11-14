@@ -51,14 +51,17 @@ jupyter notebook Genomic Text Curation & Topic Grouping (NLP).ipynb
 
 ```
 genomic-nlp-pipeline/
-└── texts.csv                                                  # Input dataset (60 AD publications)
-└── Genomic Text Curation & Topic Grouping (NLP).ipynb         # Interactive analysis notebook
+├── texts.csv # Input dataset (60 AD publications)
+│
+├── Genomic Text Curation & Topic Grouping (NLP).ipynb      # Interactive analysis notebook     
+│
 ├── output/
 │   ├── entities.json              # Extracted entity records
 │   ├── entities.csv               # Same data in CSV format
 │   ├── topics.json                # Topic clustering results
 │   ├── texts_with_topics.csv      # Documents with topic labels
-└── README.md             
+│
+└── README.md                      
 ```
 
 ---
