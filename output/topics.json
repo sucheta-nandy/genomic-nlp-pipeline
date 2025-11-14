@@ -1,0 +1,107 @@
+[
+  {
+    "topic_id": 0,
+    "size": 9,
+    "keywords": [
+      "linked",
+      "linked alzheimer",
+      "synaptic",
+      "neuronal",
+      "disease",
+      "alzheimer disease",
+      "alzheimer",
+      "variants",
+      "cognitive decline",
+      "decline"
+    ],
+    "example_texts": [
+      "The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility. Clusterin influences amyloid-beta clearance and aggregation.",
+      "The protein tyrosine kinase PTK2B contains variant rs28834970 linked to cognitive decline and Alzheimer disease. PTK2B regulates calcium signaling in neurons.",
+      "MEF2C transcription factor variants including rs190982 are linked to Alzheimer disease and regulate neuronal survival and synaptic function genes."
+    ]
+  },
+  {
+    "topic_id": 1,
+    "size": 22,
+    "keywords": [
+      "genetic",
+      "ad",
+      "variants",
+      "including",
+      "loci",
+      "abca7",
+      "genetic variants",
+      "populations",
+      "risk",
+      "ad risk"
+    ],
+    "example_texts": [
+      "Loss-of-function variants in ABCA7, including rs3764650, increase AD susceptibility. ABCA7 regulates lipid homeostasis and affects amyloid processing in the brain.",
+      "Large-scale genome-wide association study meta-analysis identified 29 risk loci for Alzheimer disease including ZCWPW1, ADAMTS1, and HESX1 variants at genome-wide significance.",
+      "Major histocompatibility complex variants in HLA-DRB1 including rs9271192 are associated with AD risk and influence immune responses to amyloid pathology."
+    ]
+  },
+  {
+    "topic_id": 2,
+    "size": 7,
+    "keywords": [
+      "contribute",
+      "cd2ap",
+      "pathogenesis",
+      "blood brain",
+      "brain barrier",
+      "barrier",
+      "blood",
+      "brain",
+      "genes",
+      "contributes"
+    ],
+    "example_texts": [
+      "Variants in the complement receptor 1 gene CR1, particularly rs6656401, contribute to AD risk through altered complement cascade regulation and amyloid clearance mechanisms.",
+      "The immune-related phosphatase gene INPP5D harbors rs35349669 which modulates microglial responses and contributes to AD pathogenesis.",
+      "The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction."
+    ]
+  },
+  {
+    "topic_id": 3,
+    "size": 5,
+    "keywords": [
+      "app",
+      "beta",
+      "amyloid beta",
+      "production",
+      "beta production",
+      "amyloid",
+      "psen1",
+      "psen2",
+      "app psen1",
+      "psen1 psen2"
+    ],
+    "example_texts": [
+      "The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk. PICALM influences APP processing and amyloid-beta production.",
+      "Variants in SORL1 such as rs11218343 influence APP trafficking and processing. SORL1 dysfunction leads to increased amyloid-beta production and Alzheimer disease risk.",
+      "ADAM10 is the major alpha-secretase for APP. Variants such as rs593742 that enhance ADAM10 activity reduce amyloid-beta production and AD risk."
+    ]
+  },
+  {
+    "topic_id": 4,
+    "size": 17,
+    "keywords": [
+      "risk",
+      "disease risk",
+      "alzheimer disease",
+      "alzheimer",
+      "disease",
+      "variant",
+      "associated",
+      "function",
+      "gene",
+      "multiple"
+    ],
+    "example_texts": [
+      "The rs429358 variant in the APOE gene is strongly associated with increased Alzheimer disease risk across multiple populations. This variant increases disease risk by approximately 3-fold in heterozygotes and 15-fold in homozygotes.",
+      "Rare coding variants in TREM2, including rs75932628, significantly affect microglial function and increase risk for late-onset Alzheimer disease. The R47H variant increases AD risk approximately 3-fold.",
+      "Common variants near BIN1 at rs744373 are associated with Alzheimer disease risk. BIN1 variants modulate tau pathology and affect endosomal trafficking in neurons."
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "text_id":"T0001",
+    "variant":"rs429358",
+    "gene":"APOE",
+    "phenotype":"increased Alzheimer disease risk across",
+    "relation":"associated with",
+    "evidence_span":"The rs429358 variant in the APOE gene is strongly associated with increased Alzheimer disease risk across multiple populations"
+  },
+  {
+    "text_id":"T0001",
+    "variant":"rs429358",
+    "gene":"APOE",
+    "phenotype":"with increased Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The rs429358 variant in the APOE gene is strongly associated with increased Alzheimer disease risk across multiple populations"
+  },
+  {
+    "text_id":"T0001",
+    "variant":"rs429358",
+    "gene":"APOE",
+    "phenotype":"variant increases disease risk by",
+    "relation":"associated with",
+    "evidence_span":"The rs429358 variant in the APOE gene is strongly associated with increased Alzheimer disease risk across multiple populations"
+  },
+  {
+    "text_id":"T0002",
+    "variant":"rs75932628",
+    "gene":"R47H",
+    "phenotype":"late-onset Alzheimer disease",
+    "relation":null,
+    "evidence_span":"Rare coding variants in TREM2, including rs75932628, significantly affect microglial function and increase risk for late-onset Alzheimer disease. The R47H variant increases AD risk approximately 3-fol"
+  },
+  {
+    "text_id":"T0003",
+    "variant":"rs744373",
+    "gene":"BIN1",
+    "phenotype":"associated with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"Common variants near BIN1 at rs744373 are associated with Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0003",
+    "variant":"rs744373",
+    "gene":"BIN1",
+    "phenotype":"with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"Common variants near BIN1 at rs744373 are associated with Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0004",
+    "variant":"rs11136000",
+    "gene":"CLU",
+    "phenotype":"linked to Alzheimer disease susceptibility",
+    "relation":"linked to",
+    "evidence_span":"The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility"
+  },
+  {
+    "text_id":"T0004",
+    "variant":"rs11136000",
+    "gene":"CLU",
+    "phenotype":"linked to Alzheimer disease susceptibility",
+    "relation":"influences",
+    "evidence_span":"The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility"
+  },
+  {
+    "text_id":"T0004",
+    "variant":"rs11136000",
+    "gene":"CLU",
+    "phenotype":"to Alzheimer disease susceptibility",
+    "relation":"linked to",
+    "evidence_span":"The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility"
+  },
+  {
+    "text_id":"T0004",
+    "variant":"rs11136000",
+    "gene":"CLU",
+    "phenotype":"to Alzheimer disease susceptibility",
+    "relation":"influences",
+    "evidence_span":"The clusterin gene CLU contains several variants including rs11136000 that are linked to Alzheimer disease susceptibility"
+  },
+  {
+    "text_id":"T0005",
+    "variant":"rs6656401",
+    "gene":"CR1",
+    "phenotype":null,
+    "relation":null,
+    "evidence_span":"Variants in the complement receptor 1 gene CR1, particularly rs6656401, contribute to AD risk through altered complement cascade regulation and amyloid clearance mechanisms."
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"affects",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"influences",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"affects",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"APP",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"influences",
+    "evidence_span":""
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"affects",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"with reduced Alzheimer disease risk",
+    "relation":"influences",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"affects",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0006",
+    "variant":"rs3851179",
+    "gene":"PICALM",
+    "phenotype":"reduced Alzheimer disease risk",
+    "relation":"influences",
+    "evidence_span":"The PICALM gene variant rs3851179 affects clathrin-mediated endocytosis and is associated with reduced Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0007",
+    "variant":"rs983392",
+    "gene":"MS4A",
+    "phenotype":"in Alzheimer disease pathogenesis through",
+    "relation":"implicated in",
+    "evidence_span":"Multiple variants in the MS4A gene cluster including rs983392 are implicated in Alzheimer disease pathogenesis through immune cell function modulation"
+  },
+  {
+    "text_id":"T0007",
+    "variant":"rs983392",
+    "gene":"MS4A",
+    "phenotype":"implicated in Alzheimer disease pathogenesis",
+    "relation":"implicated in",
+    "evidence_span":"Multiple variants in the MS4A gene cluster including rs983392 are implicated in Alzheimer disease pathogenesis through immune cell function modulation"
+  },
+  {
+    "text_id":"T0008",
+    "variant":"rs3865444",
+    "gene":"CD33",
+    "phenotype":"and modulates Alzheimer disease risk",
+    "relation":"affects",
+    "evidence_span":"The rs3865444 polymorphism in CD33 affects microglial clearance of amyloid-beta plaques and modulates Alzheimer disease risk in multiple populations"
+  },
+  {
+    "text_id":"T0008",
+    "variant":"rs3865444",
+    "gene":"CD33",
+    "phenotype":"and modulates Alzheimer disease risk",
+    "relation":"modulates",
+    "evidence_span":"The rs3865444 polymorphism in CD33 affects microglial clearance of amyloid-beta plaques and modulates Alzheimer disease risk in multiple populations"
+  },
+  {
+    "text_id":"T0008",
+    "variant":"rs3865444",
+    "gene":"CD33",
+    "phenotype":"modulates Alzheimer disease risk in",
+    "relation":"affects",
+    "evidence_span":"The rs3865444 polymorphism in CD33 affects microglial clearance of amyloid-beta plaques and modulates Alzheimer disease risk in multiple populations"
+  },
+  {
+    "text_id":"T0008",
+    "variant":"rs3865444",
+    "gene":"CD33",
+    "phenotype":"modulates Alzheimer disease risk in",
+    "relation":"modulates",
+    "evidence_span":"The rs3865444 polymorphism in CD33 affects microglial clearance of amyloid-beta plaques and modulates Alzheimer disease risk in multiple populations"
+  },
+  {
+    "text_id":"T0009",
+    "variant":"rs3764650",
+    "gene":"ABCA7",
+    "phenotype":null,
+    "relation":"affects",
+    "evidence_span":"Loss-of-function variants in ABCA7, including rs3764650, increase AD susceptibility. ABCA7 regulates lipid homeostasis and affects amyloid processing in the brain."
+  },
+  {
+    "text_id":"T0010",
+    "variant":"rs11218343",
+    "gene":"APP",
+    "phenotype":"production and Alzheimer disease risk",
+    "relation":null,
+    "evidence_span":"Variants in SORL1 such as rs11218343 influence APP trafficking and processing. SORL1 dysfunction leads to increased amyloid-beta production and Alzheimer disease risk."
+  },
+  {
+    "text_id":"T0012",
+    "variant":"rs28834970",
+    "gene":"PTK2B",
+    "phenotype":"decline and Alzheimer disease",
+    "relation":"linked to",
+    "evidence_span":"The protein tyrosine kinase PTK2B contains variant rs28834970 linked to cognitive decline and Alzheimer disease"
+  },
+  {
+    "text_id":"T0012",
+    "variant":"rs28834970",
+    "gene":"PTK2B",
+    "phenotype":"and Alzheimer disease",
+    "relation":"linked to",
+    "evidence_span":"The protein tyrosine kinase PTK2B contains variant rs28834970 linked to cognitive decline and Alzheimer disease"
+  },
+  {
+    "text_id":"T0012",
+    "variant":"rs28834970",
+    "gene":"PTK2B",
+    "phenotype":"linked to cognitive decline and",
+    "relation":"linked to",
+    "evidence_span":"The protein tyrosine kinase PTK2B contains variant rs28834970 linked to cognitive decline and Alzheimer disease"
+  },
+  {
+    "text_id":"T0013",
+    "variant":"rs1057233",
+    "gene":"SPI1",
+    "phenotype":"with Alzheimer disease risk through",
+    "relation":"associated with",
+    "evidence_span":"Variants near SPI1 at rs1057233 affect myeloid cell gene expression and are associated with Alzheimer disease risk through altered microglial function"
+  },
+  {
+    "text_id":"T0013",
+    "variant":"rs1057233",
+    "gene":"SPI1",
+    "phenotype":"associated with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"Variants near SPI1 at rs1057233 affect myeloid cell gene expression and are associated with Alzheimer disease risk through altered microglial function"
+  },
+  {
+    "text_id":"T0014",
+    "variant":"rs35349669",
+    "gene":"INPP5D",
+    "phenotype":null,
+    "relation":"modulates",
+    "evidence_span":"The immune-related phosphatase gene INPP5D harbors rs35349669 which modulates microglial responses and contributes to AD pathogenesis."
+  },
+  {
+    "text_id":"T0015",
+    "variant":"rs190982",
+    "gene":"MEF2C",
+    "phenotype":"to Alzheimer disease and regulate",
+    "relation":"linked to",
+    "evidence_span":"MEF2C transcription factor variants including rs190982 are linked to Alzheimer disease and regulate neuronal survival and synaptic function genes"
+  },
+  {
+    "text_id":"T0015",
+    "variant":"rs190982",
+    "gene":"MEF2C",
+    "phenotype":"linked to Alzheimer disease and",
+    "relation":"linked to",
+    "evidence_span":"MEF2C transcription factor variants including rs190982 are linked to Alzheimer disease and regulate neuronal survival and synaptic function genes"
+  },
+  {
+    "text_id":"T0017",
+    "variant":"rs1476679",
+    "gene":"ZCWPW1",
+    "phenotype":"associated with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The histone-binding protein ZCWPW1 contains variant rs1476679 associated with Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0017",
+    "variant":"rs1476679",
+    "gene":"ZCWPW1",
+    "phenotype":"with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The histone-binding protein ZCWPW1 contains variant rs1476679 associated with Alzheimer disease risk"
+  },
+  {
+    "text_id":"T0018",
+    "variant":"rs7274581",
+    "gene":"CASS4",
+    "phenotype":"to Alzheimer disease through altered",
+    "relation":"linked to",
+    "evidence_span":"Variants in CASS4 at rs7274581 affect cytoskeletal dynamics and are linked to Alzheimer disease through altered neuronal morphology and connectivity"
+  },
+  {
+    "text_id":"T0018",
+    "variant":"rs7274581",
+    "gene":"CASS4",
+    "phenotype":"linked to Alzheimer disease through",
+    "relation":"linked to",
+    "evidence_span":"Variants in CASS4 at rs7274581 affect cytoskeletal dynamics and are linked to Alzheimer disease through altered neuronal morphology and connectivity"
+  },
+  {
+    "text_id":"T0019",
+    "variant":"rs17125944",
+    "gene":"FERMT2",
+    "phenotype":"contributes to Alzheimer disease susceptibility",
+    "relation":"modulates",
+    "evidence_span":"The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction"
+  },
+  {
+    "text_id":"T0019",
+    "variant":"rs17125944",
+    "gene":"FERMT2",
+    "phenotype":"contributes to Alzheimer disease susceptibility",
+    "relation":"contributes to",
+    "evidence_span":"The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction"
+  },
+  {
+    "text_id":"T0019",
+    "variant":"rs17125944",
+    "gene":"FERMT2",
+    "phenotype":"to Alzheimer disease susceptibility through",
+    "relation":"modulates",
+    "evidence_span":"The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction"
+  },
+  {
+    "text_id":"T0019",
+    "variant":"rs17125944",
+    "gene":"FERMT2",
+    "phenotype":"to Alzheimer disease susceptibility through",
+    "relation":"contributes to",
+    "evidence_span":"The FERMT2 gene variant rs17125944 modulates integrin signaling pathways and contributes to Alzheimer disease susceptibility through blood-brain barrier dysfunction"
+  },
+  {
+    "text_id":"T0020",
+    "variant":"rs9271192",
+    "gene":"HLA",
+    "phenotype":null,
+    "relation":"associated with",
+    "evidence_span":"Major histocompatibility complex variants in HLA-DRB1 including rs9271192 are associated with AD risk and influence immune responses to amyloid pathology."
+  },
+  {
+    "text_id":"T0021",
+    "variant":"rs11767557",
+    "gene":"EPHA1",
+    "phenotype":"Alzheimer disease cognitive decline",
+    "relation":"linked to",
+    "evidence_span":"The ephrin receptor EPHA1 contains variants such as rs11767557 that affect synaptic plasticity and are linked to Alzheimer disease cognitive decline"
+  },
+  {
+    "text_id":"T0021",
+    "variant":"rs11767557",
+    "gene":"EPHA1",
+    "phenotype":"linked to Alzheimer disease cognitive",
+    "relation":"linked to",
+    "evidence_span":"The ephrin receptor EPHA1 contains variants such as rs11767557 that affect synaptic plasticity and are linked to Alzheimer disease cognitive decline"
+  },
+  {
+    "text_id":"T0021",
+    "variant":"rs11767557",
+    "gene":"EPHA1",
+    "phenotype":"to Alzheimer disease cognitive decline",
+    "relation":"linked to",
+    "evidence_span":"The ephrin receptor EPHA1 contains variants such as rs11767557 that affect synaptic plasticity and are linked to Alzheimer disease cognitive decline"
+  },
+  {
+    "text_id":"T0022",
+    "variant":"rs9349407",
+    "gene":"CD2AP",
+    "phenotype":"contributing to Alzheimer disease pathogenesis",
+    "relation":null,
+    "evidence_span":"CD2AP variants at rs9349407 influence cytoskeletal organization and blood-brain barrier integrity, contributing to Alzheimer disease pathogenesis."
+  },
+  {
+    "text_id":"T0023",
+    "variant":"rs10838725",
+    "gene":"CELF1",
+    "phenotype":"associated with cognitive impairment",
+    "relation":"associated with",
+    "evidence_span":"The RNA-binding protein CELF1 harbors variant rs10838725 associated with cognitive impairment"
+  },
+  {
+    "text_id":"T0023",
+    "variant":"rs10838725",
+    "gene":"CELF1",
+    "phenotype":"with cognitive impairment",
+    "relation":"associated with",
+    "evidence_span":"The RNA-binding protein CELF1 harbors variant rs10838725 associated with cognitive impairment"
+  },
+  {
+    "text_id":"T0024",
+    "variant":"rs74615166",
+    "gene":"TRIP4",
+    "phenotype":"linked to Alzheimer disease and",
+    "relation":"linked to",
+    "evidence_span":"Variants in TRIP4 including rs74615166 are linked to Alzheimer disease and may affect transcriptional regulation of genes involved in neuronal function"
+  },
+  {
+    "text_id":"T0024",
+    "variant":"rs74615166",
+    "gene":"TRIP4",
+    "phenotype":"to Alzheimer disease and may",
+    "relation":"linked to",
+    "evidence_span":"Variants in TRIP4 including rs74615166 are linked to Alzheimer disease and may affect transcriptional regulation of genes involved in neuronal function"
+  },
+  {
+    "text_id":"T0025",
+    "variant":"rs1800764",
+    "gene":"ACE",
+    "phenotype":"with increased dementia risk",
+    "relation":"associated with",
+    "evidence_span":"The ACE gene contains polymorphisms such as rs1800764 that influence blood pressure regulation and are associated with increased dementia risk"
+  },
+  {
+    "text_id":"T0026",
+    "variant":"rs242557",
+    "gene":"MAPT",
+    "phenotype":"to Alzheimer disease neuropathology",
+    "relation":"linked to",
+    "evidence_span":"Although primarily linked to frontotemporal dementia, MAPT variants including rs242557 influence tau protein structure and contribute to Alzheimer disease neuropathology"
+  },
+  {
+    "text_id":"T0026",
+    "variant":"rs242557",
+    "gene":"MAPT",
+    "phenotype":"to frontotemporal dementia, MAPT variants",
+    "relation":"linked to",
+    "evidence_span":"Although primarily linked to frontotemporal dementia, MAPT variants including rs242557 influence tau protein structure and contribute to Alzheimer disease neuropathology"
+  },
+  {
+    "text_id":"T0026",
+    "variant":"rs242557",
+    "gene":"MAPT",
+    "phenotype":"contribute to Alzheimer disease neuropathology",
+    "relation":"linked to",
+    "evidence_span":"Although primarily linked to frontotemporal dementia, MAPT variants including rs242557 influence tau protein structure and contribute to Alzheimer disease neuropathology"
+  },
+  {
+    "text_id":"T0027",
+    "variant":"rs5848",
+    "gene":"GRN",
+    "phenotype":"modify Alzheimer disease risk through",
+    "relation":null,
+    "evidence_span":"Loss-of-function mutations in progranulin gene GRN cause frontotemporal dementia and certain variants like rs5848 modify Alzheimer disease risk through inflammatory pathways."
+  },
+  {
+    "text_id":"T0029",
+    "variant":"rs593742",
+    "gene":"APP",
+    "phenotype":null,
+    "relation":null,
+    "evidence_span":"ADAM10 is the major alpha-secretase for APP. Variants such as rs593742 that enhance ADAM10 activity reduce amyloid-beta production and AD risk."
+  },
+  {
+    "text_id":"T0030",
+    "variant":"rs4420638",
+    "gene":"APOC1",
+    "phenotype":"with Alzheimer disease risk through",
+    "relation":"associated with",
+    "evidence_span":"The APOC1 gene in the APOE cluster contains variant rs4420638 independently associated with Alzheimer disease risk through lipid metabolism effects"
+  },
+  {
+    "text_id":"T0030",
+    "variant":"rs4420638",
+    "gene":"APOC1",
+    "phenotype":"associated with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The APOC1 gene in the APOE cluster contains variant rs4420638 independently associated with Alzheimer disease risk through lipid metabolism effects"
+  },
+  {
+    "text_id":"T0030",
+    "variant":"rs4420638",
+    "gene":"APOE",
+    "phenotype":"with Alzheimer disease risk through",
+    "relation":"associated with",
+    "evidence_span":"The APOC1 gene in the APOE cluster contains variant rs4420638 independently associated with Alzheimer disease risk through lipid metabolism effects"
+  },
+  {
+    "text_id":"T0030",
+    "variant":"rs4420638",
+    "gene":"APOE",
+    "phenotype":"associated with Alzheimer disease risk",
+    "relation":"associated with",
+    "evidence_span":"The APOC1 gene in the APOE cluster contains variant rs4420638 independently associated with Alzheimer disease risk through lipid metabolism effects"
+  },
+  {
+    "text_id":"T0031",
+    "variant":"rs115550680",
+    "gene":"ABCA7",
+    "phenotype":null,
+    "relation":null,
+    "evidence_span":"African American populations show unique AD risk loci including variants in ABCA7 at rs115550680 and novel associations not observed in European populations."
+  },
+  {
+    "text_id":"T0032",
+    "variant":"rs34173062",
+    "gene":"APOE",
+    "phenotype":null,
+    "relation":null,
+    "evidence_span":"Asian populations demonstrate distinct genetic architecture for AD with population-specific associations at loci including SHARPIN rs34173062 and different APOE effect sizes."
+  },
+  {
+    "text_id":"T0039",
+    "variant":"rs4680",
+    "gene":"COMT",
+    "phenotype":"decline in Alzheimer disease patients",
+    "relation":null,
+    "evidence_span":"Variants in BDNF at rs6265 and COMT at rs4680 modify the rate of cognitive decline in Alzheimer disease patients independent of primary disease risk."
+  }
+]
