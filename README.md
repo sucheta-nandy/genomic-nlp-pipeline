@@ -16,7 +16,7 @@ This project implements a complete natural language processing system for analyz
 - [Methodology](#-methodology)
 - [Results](#-results)
 - [Limitations & Future Work](#-limitations--future-work)
-- 
+
 ---
 
 ## ✨ Features
@@ -44,7 +44,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Run Jupyter notebook (interactive)
 jupyter notebook Genomic Text Curation & Topic Grouping (NLP).ipynb
-
+```
 ---
 
 ## 📁 Project Structure
