@@ -34,7 +34,7 @@ This project implements a complete natural language processing system for analyz
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/genomic-nlp-pipeline.git
+git clone https://github.com/sucheta-nandy/genomic-nlp-pipeline.git
 cd genomic-nlp-pipeline
 
 # Create virtual environment
@@ -78,7 +78,7 @@ genomic-nlp-pipeline/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/genomic-nlp-pipeline.git
+   git clone https://github.com/sucheta-nandy/genomic-nlp-pipeline.git
    cd genomic-nlp-pipeline
    ```
 
